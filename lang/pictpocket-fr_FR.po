@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pictpocket\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-30 16:58+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: semageek\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wp-content\\plugins\\pictpocket\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-2: ..\n"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:90
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:162
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:209
+#: ../pictPocket.php:90
+#: ../pictPocket.php:162
+#: ../pictPocket.php:209
+msgid "Overview"
+msgstr "Synthèse"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:92
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:283
+#: ../pictPocket.php:92
+#: ../pictPocket.php:283
+msgid "Autorisations"
+msgstr "Autorisations"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:94
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:96
+#: ../pictPocket.php:94
+#: ../pictPocket.php:96
+msgid "HotLinks"
+msgstr "Hotlinks"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:97
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:376
+#: ../pictPocket.php:97
+#: ../pictPocket.php:376
+msgid "Options"
+msgstr "Options"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:98
+#: ../pictPocket.php:98
+msgid "Donation"
+msgstr "Donation"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:163
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:186
+#: ../pictPocket.php:163
+#: ../pictPocket.php:186
+msgid "Warning"
+msgstr "Attention"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:163
+#: ../pictPocket.php:163
+msgid "The directory"
+msgstr "Le répertoire"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:163
+#: ../pictPocket.php:163
+msgid " is not writeable.<br/>Use chmod command through your ftp or server software in 777. "
+msgstr "n'a pas les droits en écriture.<br/>Utiliser la commande chmod de votre client ftp  (chmod 777)."
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:167
+#: ../pictPocket.php:167
+msgid "Management of the file"
+msgstr "Gestion du fichier"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:174
+#: ../pictPocket.php:174
+msgid "File .htaccess exist."
+msgstr "Le Fichier .htaccess est présent"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:179
+#: ../pictPocket.php:179
+msgid "The configuration of .htaccess for PickPocket is Ok"
+msgstr "La configuration de .htaccess pour PictPocket est ok."
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:184
+#: ../pictPocket.php:184
+msgid "The configuration of .htaccess for PickPocket is missing"
+msgstr "La configuration de .htaccess pour PictPocket est absente."
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:187
+#: ../pictPocket.php:187
+msgid "Some webhost don't accept the Rewrite URL fonction necessary for the PictPocket plugin."
+msgstr "Certains hebergeurs n'acceptent pas le rewrite d'url necessaire pour le fonctionnement du plugin."
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:189
+#: ../pictPocket.php:189
+msgid "In case of <b>Wordpress fail</b>, try to clear the .htaccess file in root forlder."
+msgstr "En cas de <b>plantage complet de Wordpress</b>, effacez le fichier .htaccess a la racine du site."
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:193
+#: ../pictPocket.php:193
+msgid "Auto Configuration..."
+msgstr "Configuration Automatique..."
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:203
+#: ../pictPocket.php:203
+msgid "The .htaccess file don't exist or is not writeable."
+msgstr "Le Fichier .htaccess n'existe pas ou et bloqué en ecriture."
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:222
+#: ../pictPocket.php:222
+msgid "Numbers of thieves : "
+msgstr "Nombre de voleurs : "
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:232
+#: ../pictPocket.php:232
+msgid "Numbers of hotlinking : "
+msgstr "Nombre de hotlinks : "
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:290
+#: ../pictPocket.php:290
+msgid "RewriteCond"
+msgstr "RewriteCond"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:290
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:298
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:425
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:450
+#: ../pictPocket.php:290
+#: ../pictPocket.php:298
+#: ../pictPocket.php:425
+#: ../pictPocket.php:450
+msgid "Clear"
+msgstr "Effacer"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:308
+#: ../pictPocket.php:308
+msgid "Add"
+msgstr "Ajouter"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:376
+#: ../pictPocket.php:376
+msgid "Custom Image"
+msgstr "Image personalisée."
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:376
+#: ../pictPocket.php:376
+msgid "If you want to use a custom image, just put the url below. Stay it empty for default image."
+msgstr "Si vous voulez utiliser une image personnalisée, ajouter l'URL dessous. Laissez vide pour celle par défaut."
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:376
+#: ../pictPocket.php:376
+msgid "Auto delete"
+msgstr "Effacement automatique"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:376
+#: ../pictPocket.php:376
+msgid "Automatically delete hotlink older than"
+msgstr "Effacer les hotlinks datant de plus de"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:376
+#: ../pictPocket.php:376
+msgid "Never delete!"
+msgstr "Jamais effacer!"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:376
+#: ../pictPocket.php:376
+msgid "day"
+msgstr "jour"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:376
+#: ../pictPocket.php:376
+msgid "week"
+msgstr "semaine"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:376
+#: ../pictPocket.php:376
+msgid "weeks"
+msgstr "semaines"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:376
+#: ../pictPocket.php:376
+msgid "month"
+msgstr "mois"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:376
+#: ../pictPocket.php:376
+msgid "Save options"
+msgstr "Sauvegarder les options"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:422
+#: ../pictPocket.php:422
+msgid "Thieves"
+msgstr "Voleurs"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:425
+#: ../pictPocket.php:425
+msgid "URL"
+msgstr "URL"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:425
+#: ../pictPocket.php:425
+msgid "Numbers"
+msgstr "Nombre"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:425
+#: ../pictPocket.php:425
+msgid "Date"
+msgstr "Date"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:425
+#: ../pictPocket.php:425
+msgid "Autorisation"
+msgstr "Autorisation"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:425
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:440
+#: ../pictPocket.php:425
+#: ../pictPocket.php:440
+msgid "Block"
+msgstr "Blocage"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:425
+#: ../pictPocket.php:425
+msgid "Last acces"
+msgstr "Dernier Acces"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:437
+#: ../pictPocket.php:437
+msgid "Allow"
+msgstr "Autoriser"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:443
+#: ../pictPocket.php:443
+msgid "Unblock"
+msgstr "Déblocage"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:462
+#: ../pictPocket.php:462
+msgid "Clear All"
+msgstr "Effacer tout"
+
+#: C:\wamp\www\wp-content\plugins\pictpocket/pictPocket.php:463
+#: ../pictPocket.php:463
+msgid "Clear old"
+msgstr "Effacer les anciens"
+
+#~ msgid "test_traduction"
+#~ msgstr "tttt"
+
